@@ -23,9 +23,11 @@ return
 	ps_in_cwd()
 return
 
-#Space::
+#+c::
     cmd_in_cwd()
 return
+
+#SPACE::  Winset, Alwaysontop, Toggle, A
 
 ps_in_cwd()
 {
